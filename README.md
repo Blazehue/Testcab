@@ -1,4 +1,4 @@
-# 🚖 GrabClone - Ride Booking Application.
+# 🚖 GrabClone - Ride Booking Application
 
 <div align="center">
 
